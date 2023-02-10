@@ -1,0 +1,59 @@
+body{
+    background-color: #F1DBBF;
+    text-align: center;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+/* Address */
+
+#download{
+    background-color: #AA5656;
+}
+
+
+/* Download */
+
+.DownloadButtons{
+    padding: 40px;
+}
+
+
+/* Footer */
+
+.copyright{
+    padding: 40px;
+}
+
+.SocialSiteIcons{
+    margin: 20px;
+}
+
+/* Skills */
+
+#skills{
+    background-color: #AA5656;
+    color: #fff;
+    padding: 50px;
+}
+
+
+/* Title */
+
+.ShubhamDescription{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.ShubhamHeading{
+    font-size: 3rem;
+    padding: 10px;
+}
+
+.ShubhamImage{
+    padding: 20px;
+    border-radius: 100%;
+    width: 250px;
+}
